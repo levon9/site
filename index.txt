@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+	<p>site here</p>
+	<h1>some text</h1>
+	<p>something else</p>
+	<p>I forgot the html tags</p>
+</body>
+</html>
